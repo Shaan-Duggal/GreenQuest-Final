@@ -6,7 +6,7 @@ Green Quest is a mobile app that is designed to encourage and enable users to be
 
 - **Login Screen**
 - **Impact Calculator**: Analyzes your daily impact based on habits like 📱 screen time, 🥤plastic use, 💧water consumption, and 🚗 gas vehicle mileage. This will give you a score that will be added to your account on the 🏆 leaderboard
-- ** Challenges**: Provides hourly, daily, weekly, and monthly challenges that are based around helping the environment and you will receive points based on which challenge you complete, these points will be added to the 🏆 leaderboard.
+- **Challenges**: Provides hourly, daily, weekly, and monthly challenges that are based around helping the environment and you will receive points based on which challenge you complete, these points will be added to the 🏆 leaderboard.
 - **🏆 Leaderboard**: Allows you to keep track of your points and compete with others
 - **Eco-friendly Tips**: Gain insights through tips based on your impact calculator inputs.
 
