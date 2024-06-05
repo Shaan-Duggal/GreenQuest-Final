@@ -1,6 +1,6 @@
 # 🌱 Green Quest App 🟩🕵️‍♂️📲
 
-Green Quest is a mobile app that is designed to encourage and enable users to be more sustainable by keeping track of users' environmental impacts through their daily activity and giving people steps towards becoming sustainable. 🌱 This app motivated users to reduce their footprint in the world. 🌍 #GoGreen 💚
+Green Quest is a mobile app designed to encourage and enable users to be more sustainable by keeping track of users' environmental impacts through their daily activity and giving people steps towards becoming sustainable. 🌱 This app motivated users to reduce their footprint in the world. 🌍 #GoGreen 💚
 
 ## 🚀 Features
 
@@ -39,4 +39,5 @@ Project Link: https://github.com/Shaan-Duggal/GreenQuest-Final
 GitHub Copilot: Used the amazing Github Copilot for recommendations
 ### I would like to thank my friends who told me what to improve. 
 
-# This project is not done and I will be constantly updating it if you have any suggestions just make a pull request    
+# This project is not done and I will be constantly updating it if you have any suggestions make a pull request or contact me using the contacts I provided above    
+
